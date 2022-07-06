@@ -1,7 +1,7 @@
 In this tutorial, I'll show you how to build an interactive 3D visualization dashboard quickly in Python.
 
 ## 📓 Resources:
-YouTube video for this tutorial: https://www.youtube.com/c/RuslanMiftakhov/videos
+YouTube video for this tutorial: https://youtu.be/4kZvgGgdHkM
 
 Data (Seismic): https://drive.google.com/file/d/1W5Yl-CzqisDYWg_zBQKQjtgObIvdibWp/view?usp=sharing
 
