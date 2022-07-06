@@ -3,7 +3,7 @@ In this tutorial, I'll show you how to build an interactive 3D visualization das
 ## 📓 Resources:
 YouTube video for this tutorial: https://www.youtube.com/c/RuslanMiftakhov/videos
 
-Data (Seismic): https://www.notion.so/Interactive-visualization-on-your-seismic-data-310d50193bd148f6af198a583e62e47e#5e3ffe9653704f1cabd3671be9da30e1
+Data (Seismic): https://drive.google.com/file/d/1W5Yl-CzqisDYWg_zBQKQjtgObIvdibWp/view?usp=sharing
 
 Data (Fault Probability - Computed at Geoplat AI software): https://drive.google.com/file/d/1wh0NlwKIjib_CyfTR49WlE4l8bodCOCk/view?usp=sharing
 
